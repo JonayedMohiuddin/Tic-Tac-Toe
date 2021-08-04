@@ -1,5 +1,5 @@
-﻿#include <stdio.h>
-#include <conio.h>
+#include <stdio.h>
+#include <curses.h>
 #include <ctype.h>
 #include "array.c"
 
