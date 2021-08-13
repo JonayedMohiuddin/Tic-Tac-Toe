@@ -2,7 +2,7 @@
 An implementation of `minimax` algorthom on classic tic tac toe game making it unbeatable. Give it a try ;).
 
 ## HOW TO PLAY
-Human player is denoted as `X` on the board and AI player is denoted as `O` on the board.
+__HUMAN PLAYER__ is denoted as `X` on the board and __AI PLAYER__ is denoted as `O` on the board.
 If you want to play fist then just type y on the prompt.If not then type n.
 The configuration of board is:
 ```
