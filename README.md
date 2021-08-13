@@ -5,6 +5,7 @@ An implementation of `minimax` algorthom on classic tic tac toe game making it u
 Human player is denoted as `X` on the board and AI player is denoted as `O` on the board.
 If you want to play fist then just type y on the prompt.If not then type n.
 The configuration of board is:
+```
 +---+---+---+
 | 1 | 2 | 3 |
 +---+---+---+
@@ -12,5 +13,6 @@ The configuration of board is:
 +---+---+---+
 | 7 | 8 | 9 |
 +---+---+---+
+```
 Just type the number and press enter where you want to place your move `X`.
 AI will play automatically after your move.
