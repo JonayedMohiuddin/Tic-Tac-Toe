@@ -1,5 +1,5 @@
 # TIC-TAC-TOE
-An implementation of `minimax` algorithom on classic tic tac toe game making it unbeatable. Give it a try ;).
+An implementation of `minimax` algorithom on classic tic tac toe game making it `UNBEATABLE`. Give it a try ;).
 
 ## HOW TO PLAY
 __HUMAN PLAYER__ is denoted as `X` on the board and __AI PLAYER__ is denoted as `O` on the board.
