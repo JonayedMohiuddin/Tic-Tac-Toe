@@ -5,8 +5,7 @@ An implementation of `minimax` algorithom on classic [Tic-tac-toe](https://www.g
 
 ## WANT TO LEARN MINIMAX?
 - [Tic Tac Toe: Understanding the Minimax Algorithm](https://www.google.com/amp/s/www.neverstopbuilding.com/blog/minimax%3fformat=amp)
-- 
-- 
+- [Minimax Algorithm in Game Theory](https://www.google.com/amp/s/www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/amp/)
 
 ## HOW TO PLAY
 __HUMAN PLAYER__ is denoted as `X` on the board and __AI PLAYER__ is denoted as `O` on the board.</br>
