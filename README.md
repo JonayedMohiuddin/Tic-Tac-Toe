@@ -2,8 +2,8 @@
 An implementation of `minimax` algorithom on classic tic tac toe game making it `UNBEATABLE`. Give it a try ;).
 
 ## HOW TO PLAY
-__HUMAN PLAYER__ is denoted as `X` on the board and __AI PLAYER__ is denoted as `O` on the board.
-If you want to play fist then just type y on the prompt.If not then type n.
+__HUMAN PLAYER__ is denoted as `X` on the board and __AI PLAYER__ is denoted as `O` on the board.</br>
+If you want to play fist then just type y on the prompt.If not then type n.</br>
 The configuration of board is:
 ```
 +-----+-----+-----+
@@ -14,7 +14,7 @@ The configuration of board is:
 |  7  |  8  |  9  |
 +-----+-----+-----+
 ```
-Just type the number and press enter where you want to place your move `X`.
+Just type the number and press enter where you want to place your move `X`.</br>
 AI will play automatically after your move.
 
 ## DEMO :
