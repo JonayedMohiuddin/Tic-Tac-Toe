@@ -13,7 +13,7 @@ typedef struct structArray
 // Method for initializing array
 void createArray(Array *a, size_t initialSize)
 {
-	a->array = malloc(sizeof(int) * initialSize);
+	a->array = (int*)malloc(sizeof(int) * initialSize);
 }
 
 // Frees array after it's of no more use.
